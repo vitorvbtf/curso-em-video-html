@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(90deg,#E1C8BF,#dd9983);
+    background-attachment: fixed; 
+}
+main{
+    background-color:white; /*cor da forma que está embaixo do texto*/ 
+    border-radius: 10px; /* borda arredondada*/
+    box-shadow: 8px 9px 15px rgba(0, 0, 0, 0.678); /*tamanho da sombra*/ 
+    width: 600px; /*tamanho da letra e da forma*/
+    padding: 10px; /* distancia entre o final da linha e a margem*/
+    margin: auto; /* colocar o texto e a margem branca no centro*/
+}
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-variant: small-caps;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #1d00c4;
+}
+p{
+    text-align:justify ; /* deixa o texto bem redimensionado*/
+}

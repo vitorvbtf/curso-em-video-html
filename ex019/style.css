@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+h1{
+    font:italic bolder 3em Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+ /* A ordem precisa ser font-style, font-weight, font-size, font-family
